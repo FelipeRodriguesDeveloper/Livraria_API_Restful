@@ -11,7 +11,7 @@ namespace LivrariaAPI.Controllers
 {
     /*
     (Esta API segue em fase de desenvolvimento...)
-    Ainda faltam middleware, etc...
+    Ainda faltam middlewares, autenticação/autorização etc...
 
     Esta API Restful foi desenvolvida com:
     
@@ -23,8 +23,11 @@ namespace LivrariaAPI.Controllers
     - Padrões Repository e Unit of Work
 
     Desenvolvedor: Felipe Rodrigues
+
     GitHub:https://github.com/FelipeRodriguesDeveloper
+
     Linkedin:https://br.linkedin.com/in/felipe-rodrigues-programador
+
     Email: feliperodriguesdeveloper@hotmail.com
     */
 
