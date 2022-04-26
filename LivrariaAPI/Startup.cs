@@ -47,7 +47,7 @@ namespace LivrariaAPI
                     Contact = new OpenApiContact {
                         Name = "Desenvolvedor Felipe Rodrigues",
                         Email = "feliperodriguesdeveloper@hotmail.com",
-                        Url = new Uri("https://github.com//FelipeRodriguesDeveloper//LivrariaAPI")
+                        Url = new Uri("https://github.com/FelipeRodriguesDeveloper/Livraria_API_Restful")
                     }
                 });
 
