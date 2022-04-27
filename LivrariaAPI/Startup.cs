@@ -30,7 +30,7 @@ namespace LivrariaAPI
         {
             services.AddControllers();
 
-            services.AddDbContext<LivrariaDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConexaoBancoLivrariaAPI"), b => b.MigrationsAssembly("Livraria.Data.EFCore")));
+            services.AddDbContext<LivrariaDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConexaoBancoLivrariaAPI_Azure"), b => b.MigrationsAssembly("Livraria.Data.EFCore")));
 
             services.AddScoped<IRepositorioAutor, RepositorioAutor>(); 
             services.AddScoped<IRepositorioLivro, RepositorioLivro>();
