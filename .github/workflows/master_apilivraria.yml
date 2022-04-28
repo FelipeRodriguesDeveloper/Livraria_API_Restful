@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'apilivraria'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4206ACAAADE947F28645D96ECF96C18C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_27C45823ACE144FCB1E86B25C58C12C7 }}
           package: .
