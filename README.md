@@ -14,6 +14,6 @@
     
     GitHub:https://github.com/FelipeRodriguesDeveloper
     
-    Linkedin:https://br.linkedin.com/in/felipe-rodrigues-programador
+    Linkedin:https://www.linkedin.com/in/felipe-rodrigues-programador
     
     Email: feliperodriguesdeveloper@hotmail.com
