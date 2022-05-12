@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <PropertyGroup>
+	  <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+	  
+  <PropertyGroup>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 	
